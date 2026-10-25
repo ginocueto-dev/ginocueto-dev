@@ -13,3 +13,11 @@
 - :technologist: I love using software and clean code as a solution for every problem.
 - :rocket: Always learning new things, exploring UI/UX, and creating web projects.
 - :nerd_face: I’m currently open to new learning opportunities and tech projects!
+
+<h3 align="center">Technologies That I Know 🧑‍💻</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,mysql,git,github,vscode&perline=5" />
+  </a>
+</p>
