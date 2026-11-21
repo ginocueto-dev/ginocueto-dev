@@ -17,20 +17,17 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Project Name 1</h3>
+      <h3 align="center">📦 Sistema de Inventario</h3>
       <p align="center">
         <!-- Reemplaza esta imagen con una captura de pantalla de tu proyecto -->
-        <img src="https://via.placeholder.com/600x300/1e1e2e/ffffff?text=Tu+Proyecto+Aquí" width="100%" alt="Project Preview" />
+        <img src="https://via.placeholder.com/600x300/1e1e2e/ffffff?text=Sistema+de+Inventario+en+Python" width="100%" alt="Project Preview" />
       </p>
-      <p><b>Descripción corta:</b> Una breve explicación de lo que hace tu aplicación y qué problema resuelve.</p>
+      <p><b>Descripción:</b> Sistema de registro de inventario y ventas desarrollado en Python. Permite registrar productos, actualizar stock y procesar ventas, guardando los datos en un archivo de texto (inventario.txt).</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/ginocueto-dev" target="_blank"><b>🔗 Ver Código</b></a> | 
-        <a href="#" target="_blank"><b>🌐 Demo En Vivo</b></a>
+        <a href="https://github.com/ginocueto-dev/Sistema-Inventario-Python" target="_blank"><b>🔗 Ver Código</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
