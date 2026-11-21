@@ -1,5 +1,5 @@
 
-<h1 align="center">HOla 👋, Soy Gino Cueto</h1>
+<h1 align="center">Hola 👋, Soy Gino Cueto</h1>
 <h3 align="center">Ingeniero de software y desarrollador web de Peru 🇵🇪</h3>
 
 <p align="center">
