@@ -27,9 +27,11 @@
       <h3 align="center">📦 Sistema de Inventario</h3>
       <p align="center">
         <a href="https://github.com/ginocueto-dev/Sistema-Inventario-Python" target="_blank">
-        <img src="https://via.placeholder.com/600x300/1e1e2e/ffffff?text=Sistema+de+Inventario+en+Python" width="100%" alt="Sistema de Inventario Preview" />
+          <!-- Recuerda que luego puedes cambiar este link por una foto real de tu consola -->
+          <img src="https://via.placeholder.com/600x300/1e1e2e/ffffff?text=Sistema+de+Inventario+en+Python" width="100%" alt="Project Preview" />
+        </a>
       </p>
-      <p><b>Descripción:</b> Sistema de gestión de inventario y ventas desarrollado en Python. Permite registrar productos, actualizar stock y procesar ventas mediante almacenamiento en archivos de texto.</p>
+      <p><b>Descripción:</b> Sistema de registro de inventario y ventas desarrollado en Python. Permite registrar productos, actualizar stock y procesar ventas, guardando los datos en un archivo de texto (inventario.txt).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </p>
@@ -37,7 +39,6 @@
         <a href="https://github.com/ginocueto-dev/Sistema-Inventario-Python" target="_blank"><b>🔗 Ver Código</b></a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">📌 Project Name 2</h3>
       <p align="center">
