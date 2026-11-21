@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Gino Cueto</h1>
-<h3 align="center">Software Engineer & Web Developer from Peru 🇵🇪</h3>
+<h1 align="center">HOla 👋, Soy Gino Cueto</h1>
+<h3 align="center">Ingeniero de software y desarrollador web de Peru 🇵🇪</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  Software Engineer focused on developing efficient, scalable, and user-friendly applications.<br>
-  💻 Passionate about software development, problem-solving, and continuous learning.<br>
-  🚀 Turning ideas into practical digital solutions.
+  Ingeniero de software especializado en el desarrollo de aplicaciones eficientes, escalables y fáciles de usar.<br>
+  💻 Apasionado por el desarrollo de software, la resolución de problemas y el aprendizaje continuo.<br>
+  🚀 Transformando ideas en soluciones digitales prácticas.
 </p>
 
 <br />
 
 <!-- ================= PROYECTOS DESTACADOS ================= -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 <br />
 
@@ -60,7 +60,7 @@
 <br />
 
 <!-- ================= TECNOLOGÍAS ================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tecnologías Que Utilizo </h2> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,mysql,git,github,vscode" />
@@ -70,5 +70,5 @@
 
 <!-- ================= PERFIL ================= -->
 <p align="center">
-  💡 <i>Focused on clean code, continuous improvement, and building meaningful software solutions.</i>
+  💡 <i> Nos centramos en el código limpio, la mejora continua y la creación de soluciones de software significativas.</i>
 </p>
